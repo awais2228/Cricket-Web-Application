@@ -30,5 +30,8 @@ Frontend:
    JavaScript
 
 =>Purpose
-
 This project was created as part of a university assignment to demonstrate frontend development skills and the ability to build an interactive, multi-page sports information website.
+
+=>Note: The Pictures are not uploaded in the repository. You can simply download the pictures of your choice. Just change the path of the pictures.
+
+
